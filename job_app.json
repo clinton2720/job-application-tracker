@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "company": "Amazon",
+        "role_name": "Data Analyst",
+        "date_applied": "06/11/2025",
+        "status": "Applied"
+    },
+    {
+        "id": 2,
+        "company": "Chase",
+        "role_name": "Data Analyst",
+        "date_applied": "06/11/2025",
+        "status": "Accepted"
+    },
+    {
+        "id": 3,
+        "company": "Google",
+        "role_name": "Data Analyst",
+        "date_applied": "08/11/2025",
+        "status": "Applied"
+    }
+]
